@@ -1,0 +1,37 @@
+# Dados locais (DBs, PDFs, logs)
+data/
+!data/.gitkeep
+
+# Perfil de browser e temporários
+.browser_profile/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Env / segredos
+.env
+*.env
+
+# Streamlit
+.streamlit/
+
+# Claude local
+.claude/
+
+# Power BI (binário pessoal)
+*.pbix
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
