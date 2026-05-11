@@ -1,4 +1,4 @@
-![Analista Financeiro de Faturas](Preview/analista_mockup_git.jpg)
+<img src="Preview/analista_mockup_git.jpg" alt="Analista Financeiro de Faturas" width="100%">
 
 # Analista Financeiro de Faturas
 
