@@ -27,6 +27,9 @@ env/
 # Power BI (binário pessoal)
 *.pbix
 
+# Preview — apenas JPG vai para o repo; PSD fica local
+Preview/*.psd
+
 # Editors
 .vscode/
 .idea/

@@ -1,3 +1,5 @@
+![Analista Financeiro de Faturas](Preview/analista_mockup_git.jpg)
+
 # Analista Financeiro de Faturas
 
 Um painel local para análise de faturas de cartão de crédito, implementado com **Streamlit** e **OpenClaude CLI**, que:
