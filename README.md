@@ -12,11 +12,6 @@ Um painel local para análise de faturas de cartão de crédito, implementado co
 
 ---
 
-**Este projeto** une extração de PDF, análise por IA, OCR de prints e um painel Streamlit com tema escuro — tudo rodando localmente, sem nenhum dado em nuvem. 💳
-
----
-
-
 ## 📁 Estrutura do projeto
 
 ```
@@ -47,6 +42,8 @@ analista_faturas_sts/
 ---
 
 ## 🔧 Instalação
+
+**Pré-requisitos:** Python 3.10+, Node.js 18+, Git
 
 1. Clone este repositório:
 
@@ -160,5 +157,5 @@ O arquivo `data/` está no `.gitignore` — PDFs, bancos SQLite e logs não entr
 - [pdfplumber](https://github.com/jsvine/pdfplumber)
 - [Plotly Python](https://plotly.com/python/)
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
-- [OpenClaude CLI](https://github.com/openclaude)
+- [OpenClaude CLI](https://github.com/Gitlawb/openclaude)
 
