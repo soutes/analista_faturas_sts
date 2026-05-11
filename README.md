@@ -12,6 +12,11 @@ Um painel local para análise de faturas de cartão de crédito, implementado co
 
 ---
 
+**Este projeto** une extração de PDF, análise por IA, OCR de prints e um painel Streamlit com tema escuro — tudo rodando localmente, sem nenhum dado em nuvem. 💳
+
+---
+
+
 ## 📁 Estrutura do projeto
 
 ```
@@ -157,6 +162,3 @@ O arquivo `data/` está no `.gitignore` — PDFs, bancos SQLite e logs não entr
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - [OpenClaude CLI](https://github.com/openclaude)
 
----
-
-**Este projeto** une extração de PDF, análise por IA, OCR de prints e um painel Streamlit com tema escuro — tudo rodando localmente, sem nenhum dado em nuvem. 💳
