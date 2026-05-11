@@ -20,7 +20,6 @@ analista_faturas_sts/
 ├── requirements.txt               # dependências Python
 ├── .mcp_empty.json                # config vazia de MCP (exigida pelo CLI)
 ├── Analista de Faturas STS.vbs    # launcher Windows (abre o app no browser)
-├── parar_app.bat                  # encerra o processo Streamlit
 ├── prompts/
 │   └── system_prompt.md           # prompt de sistema do agente de análise
 ├── src/
